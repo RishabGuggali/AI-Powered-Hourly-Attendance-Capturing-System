@@ -2,4 +2,4 @@
 AI-Powered Hourly Attendance Capturing System<br>
 [Check out the video for more information](https://www.youtube.com/watch?v=ySlyFLuxbKQ&t=5s)
 ![Architecture](Architecture.jpg)
-![Web page](Web page.jpg)
+![Webpage](Web page.jpg)
